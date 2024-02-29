@@ -1,1 +1,1 @@
-# b-sics
+# basics
